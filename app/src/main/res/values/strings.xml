@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PostApp</string>
+
+    <string name="post_no_connection">No connection is available.</string>
+    <string name="post_http_error">An api error has occurred.</string>
+    <string name="post_something_wrong">Something is wrong. Please try again.</string>
+    <string name="post_by_user">By : User %1$s</string>
+</resources>
